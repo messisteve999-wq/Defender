@@ -1,0 +1,5 @@
+{
+  "goblin": {"hp": 30, "speed": 90, "reward": 6, "color": "#66bb6a"},
+  "orc":    {"hp": 110, "speed": 50, "reward": 14, "color": "#455a64"},
+  "bat":    {"hp": 22, "speed": 130, "reward": 8, "color": "#7e57c2"}
+}

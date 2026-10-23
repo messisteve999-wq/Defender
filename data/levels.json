@@ -1,0 +1,17 @@
+{
+  "levels": [
+    {
+      "level_id": 1,
+      "name": "Le premier rempart",
+      "base_health": 20,
+      "start_gold": 120,
+      "waves": [
+        {"enemies": [{"type": "goblin", "count": 5}], "spawn_interval": 1.5},
+        {"enemies": [{"type": "goblin", "count": 8}, {"type": "orc", "count": 2}], "spawn_interval": 1.2},
+        {"enemies": [{"type": "bat", "count": 8}], "spawn_interval": 1.0},
+        {"enemies": [{"type": "goblin", "count": 10}, {"type": "orc", "count": 4}], "spawn_interval": 1.0},
+        {"enemies": [{"type": "orc", "count": 6}, {"type": "bat", "count": 10}], "spawn_interval": 0.9}
+      ]
+    }
+  ]
+}

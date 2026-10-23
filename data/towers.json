@@ -1,0 +1,5 @@
+{
+  "archer": {"name": "Archers", "cost": 50, "range": 190, "damage": 8, "cooldown": 0.6, "color": "#8d6e63"},
+  "fire":   {"name": "Feu", "cost": 80, "range": 150, "damage": 12, "cooldown": 1.1, "splash": 55, "color": "#e65100"},
+  "ice":    {"name": "Glace", "cost": 70, "range": 160, "damage": 3, "cooldown": 0.9, "slow_time": 2.0, "color": "#4fc3f7"}
+}

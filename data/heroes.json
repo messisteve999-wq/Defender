@@ -1,0 +1,5 @@
+{
+  "arkon": {"name": "Arkon, le Gardien", "class": "guerrier", "hp": 300, "damage": 12, "range": 80, "skill": "Position tenue"},
+  "lina":  {"name": "Lina, l'Œil d'Aigle", "class": "archer", "hp": 120, "damage": 10, "range": 260, "skill": "Longue portée"},
+  "mira":  {"name": "Mira, la Flamme", "class": "mage", "hp": 100, "damage": 16, "range": 180, "skill": "Feu de zone"}
+}
