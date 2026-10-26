@@ -25,7 +25,7 @@ func _ready() -> void:
 	info.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	add_child(info)
 
-	_make_button("JOUER", Vector2(160, 560), func(): get_tree().change_scene_to_file("res://scenes/Battle.tscn"))
+	_make_button("JOUER", Vector2(160, 560), func(): get_tree().change_scene_to_file("res://scenes/Battle3D.tscn"))
 	_make_button("QUITTER", Vector2(160, 720), func(): get_tree().quit())
 
 func _make_button(text: String, pos: Vector2, cb: Callable) -> void:
